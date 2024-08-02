@@ -1,6 +1,6 @@
 ### Project 4 - Online Course Engagement Analysis
 
-Team 9 - Rachel Schoen, Andrea Wu, Mahind Rao, Mahalel Peter
+**Team 9** - Rachel Schoen, Andrea Wu, Mahind Rao, Mahalel Peter
 
 ## Key Statement
 What are the key factors that influence whether a user completes a 
