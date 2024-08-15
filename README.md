@@ -47,9 +47,15 @@ We obtained the dataset - "Students Performance" from Kaggle.
   - Evaluate the model's performance by creating a confusion matrix and/or a classification report.
 
 ## Key finding and conclusion
+- Based on the dataset we gathered  we couldn’t predict a student’s academic performance (e.g., grade point average or success in courses) based on their personal background, study habits, and extracurricular activities because the accuracy was low in every model. 
+
+- Moreover, there were no key factors that influence the success of a student.
 
 
 ## Limitation
+- Data Structure: The dataset is primarily categorical, which may not provide sufficient detail for models to identify complex patterns or make accurate predictions.
+- Multicollinearity: In other words, it’s difficult to determine the individual effects of each variable on the student’s performance, because many of them are dependent on each other.
+- Limited Data: While the dataset had a wide breadth of categories, there were only a little under 150 entries in the dataset. This helps to explain the poor accuracy of our models.
 
 
 
